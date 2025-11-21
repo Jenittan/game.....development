@@ -65,3 +65,7 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+
+
+<img width="518" height="750" alt="Screenshot 2025-11-21 205655" src="https://github.com/user-attachments/assets/8e6f595d-5122-41f2-b793-a0cc7ff8ee44" />
+
